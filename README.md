@@ -8,3 +8,6 @@ FreeRTOS was used for the monitoring of data packets sent to a back-end server. 
 
 ![Image 1](https://github.com/Raggey/Engineering-Capstone-2018/blob/master/Hardware-Image.png)
 ![Image 2](https://github.com/Raggey/Engineering-Capstone-2018/blob/master/Block-Diagram.png)
+
+## Details covered under NDA:
+Currently, additional project details are covered under a NDA.  
